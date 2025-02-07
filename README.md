@@ -10,7 +10,7 @@ Contributors wishing to apply for a GSoC stipendium under our mentorship should:
 
 * [Gluon](https://discord.com/channels/995968619034984528/1283781488587837492) - A stablecoin protocol.
 * [Djed](https://discord.com/channels/995968619034984528/1283782044584902727) - A stablecoin protocol.
-* [FairFund](https://discord.com/channels/995968619034984528/1283782343835910257) - A platform for organization to distribute grants fairly and transparently.
+* [FairFund](https://discord.com/channels/995968619034984528/1283782343835910257) - A platform for organizations to distribute grants fairly and transparently.
 * [StablePay](https://discord.com/channels/995968619034984528/1283781801751351418) - A decentralized payment solution using decentralized stablecoins.
 * [Clowder](https://discord.com/channels/995968619034984528/1283785349356851282) - A token issuance platform.
 * [hodlCoin](https://discord.com/channels/995968619034984528/1283789466070421576) - A staking platform.
